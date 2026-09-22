@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "a1a7c2d8c526241d98ef9e64",
+  "owner": "ghjwesbhmf",
+  "repo": "page-f0ce1c1e83980c89b1595d94",
+  "title": "发现新世界",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f0ce1c1e83980c89b1595d94",
+      "a": "发现新世界",
+      "b": "2027官方最新地址导航",
+      "entity": "发现新世界",
+      "brand": "发现新世界",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "af610f1d0db3a8614d666ebb9e8c1759c293ad7f018f5bc2a5f2f691232af3ce",
+      "content": {
+        "primary_entity": "发现新世界",
+        "keyword1": "发现新世界",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选客户端，查看订阅文档，导入配置后即可使用。",
+          "AI_CLIENTS_TITLE": "设备客户端选择",
+          "AI_CLOSING_TEXT": "选适合的套餐，在设备上导入订阅，开始连接。",
+          "AI_CLOSING_TITLE": "选择套餐开始使用",
+          "AI_DESCRIPTION": "，使用订阅和套餐服务时，可根据设备数量与流量需求选择基础版、旗舰版或团队版。基础版适合单人日常使用，旗舰版覆盖多设备与流媒体游戏场景，团队版面向高流量与企业定制路由。按年付可节省订阅成本，客户端配置参考各平台文档。",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路类型三个维度对比套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备；团队版每月 1000GB、20 台设备，按设备量选择。",
+          "AI_FEATURE_TEXT_2": "旗舰版提供全节点原生流媒体解锁与 IPLC 专线游戏加速，适合对延迟和带宽有要求的用户。",
+          "AI_FEATURE_TEXT_3": "按月付或按年付均可，年付方案如基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，适合长期使用。",
+          "AI_FEATURE_TITLE_1": "流量与设备匹配",
+          "AI_FEATURE_TITLE_2": "线路与场景优化",
+          "AI_FEATURE_TITLE_3": "计费周期灵活",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到配置订阅的流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "发现新世界提供不同流量与设备数的套餐选择，覆盖基础流媒体、IPLC 专线游戏加速和团队定制路由，按月或按年订阅，客户端配置参考对应平台文档。",
+          "AI_HERO_SUBTITLE": "选套餐连设备看世界",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "支持多设备同时在线",
+          "AI_HIGHLIGHT_3": "年付方案节省成本",
+          "AI_PLANS_INTRO": "对比流量、设备数、线路权益与年付价格，按使用人数和场景选套餐。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量和每月流量需求选择基础版、旗舰版或团队版，需要流媒体或游戏加速时关注旗舰版线路。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数量与流媒体、游戏、专线等适配要求，确认满足日常使用。",
+          "AI_STEP_TEXT_3": "在手机、电脑或路由器客户端中按文档导入订阅配置，连接后即可开始使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "确认适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "发现新世界 套餐配置",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。可在套餐说明中查看并选择匹配自己设备数量的方案。",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB。按日常使用量选择，避免流量不够或浪费。",
+          "AI_FAQ_ANSWER_3": "可以。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，比月付更省。",
+          "AI_FAQ_ANSWER_4": "旗舰版提供 IPLC 专线游戏加速优化和全节点原生流媒体解锁，适合对延迟和内容解锁有要求的场景。",
+          "AI_FAQ_ANSWER_5": "在对应客户端中导入订阅链接即可，具体步骤可查看客户端文档或工单咨询。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个账号可以同时登录几台设备？",
+          "AI_FAQ_QUESTION_2": "不同套餐的流量差别大吗？",
+          "AI_FAQ_QUESTION_3": "可以按年付费吗？",
+          "AI_FAQ_QUESTION_4": "旗舰版适合什么场景？",
+          "AI_FAQ_QUESTION_5": "如何配置订阅？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qinrg.cn",
+    "host": "qinrg.cn"
+  },
+  "file_hashes": {
+    "index.html": "6c1b0a73126327524554bcf339bbfa902b3d9d67067aa0c3fbb9ea9f8b1b1fe9",
+    "sitemap.xml": "9f84899509c92647fa7a52f7d4218bf33c018dbaa6ab584b6f2629b9f8e5fb7b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a1b8aa1433764bdfef071a8676e0efdfce0704f8a5e6b2eab519773e34cdbd84",
+    "robots.txt": "6b3d49ab4e9d1211f3d01cf1cbae8fa7077e5c372b0b6801d05f49b207146757",
+    "e03595702ce51a52a87f0139b7381bce.txt": "213c61ac445b6d5f512d5717b6a41bb9a6fdf042e7f65225199231f33edd7c47"
+  },
+  "revision": "33ab896b8a59469e3b90d55e429098566e21168c38cbc38ac3514a3ef7a53f15"
+}
